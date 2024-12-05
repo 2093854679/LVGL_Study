@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lvgl.h": "c",
+        "lv_btn.h": "c",
+        "sdl.h": "c",
+        "lv_examples.h": "c",
+        "lv_demos.h": "c",
+        "stdlib.h": "c"
+    }
+}
